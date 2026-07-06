@@ -1,0 +1,11 @@
+title: |-
+  Clash
+  Navigator
+tooltip: >-
+  Clash Navigator v2.0.0 — Load one or many Navisworks clash reports (.xml or
+  .html) and switch between them with the Report dropdown. Filter clashes by
+  level, see both clashing Element IDs (host + link) side by side, select and
+  copy either ID, preview the clash viewpoint image from HTML reports, then
+  select, zoom to and colour-highlight the elements in the active view.
+  Resolves elements in the host model or in loaded Revit links.
+author: Chulan Adasuriya
